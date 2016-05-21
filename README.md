@@ -5,7 +5,7 @@ sf.mp3 is not mine, it's a sample of the seinfeld theme, use at your discretion.
 
 Streaming API code based on [this](http://adilmoujahid.com/posts/2014/07/twitter-analytics/) example
 
-This code will trigger a sound file if trigger words are hit. These words are set inside the file while the tags you track are set from sys.
+This code will trigger a sound file if trigger words are hit. These words are set inside the file while the tags you track are set from sys. (Step by step can be found in the in-line comments)
 
 Ex. python stream.py hello python will track #hello and #python
 
