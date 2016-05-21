@@ -7,4 +7,4 @@ This code will trigger a sound file if trigger words are hit. These words are se
 
 Ex. python stream.py hello python will track #hello and #python
 
-[License](Seinfeld_THE_Twit/LICENSE-en.md)
+[License](https://github.com/MaxLFarrell/Seinfeld_THE_Twit/blob/master/LICENSE-en.md)
