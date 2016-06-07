@@ -13,7 +13,7 @@ consumer_key =
 consumer_secret = 
 #Set your triggers here
 triggers = ["beta"]
-#This is a basic listener that just prints received tweets to stdout.
+#This is a basic listener that just prints received tweets
 class StdOutListener(StreamListener):
 #Function to perform on receiving data
     def on_data(self, data):
